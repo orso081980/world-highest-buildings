@@ -26,7 +26,6 @@ A comprehensive Laravel-based application for managing information about the wor
 -   Laravel Sanctum for API authentication
 -   Laravel Breeze for web authentication
 -   Tailwind CSS for styling
--   SQLite database (easily configurable for other databases)
 
 ## 📋 Prerequisites
 
